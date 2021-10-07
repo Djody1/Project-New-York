@@ -1,0 +1,33 @@
+body {background-color: #CFCCC9;
+    margin: 0px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFFFFF;
+}
+#Titel {float: left;}
+
+  li a {
+  margin-left: 15px; 
+  font-size: 50px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+  }
+
+#taalindicatorimg{float: right;}
+
+#taalindicatortext {
+  float: right;
+  vertical-align: -50px;
+  font-size: 20px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  margin-right: 30px;
+}
