@@ -31,3 +31,9 @@ ul {
   font-family: 'IBM Plex Sans', sans-serif;
   margin-right: 30px;
 }
+
+#settingsknop{
+  float:right;
+  margin-right: 15px;
+  margin-top: 2px;
+}
