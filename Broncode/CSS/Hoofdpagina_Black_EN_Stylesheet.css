@@ -1,0 +1,28 @@
+button {
+    background-color: #3E3B3B;
+    border: none;
+    
+    font-size: 32px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: bold;
+    
+    margin-left: 80px;
+
+    width: 12%;
+    height: 60px;
+}
+
+a{
+    text-decoration: none;
+    color: #C3C3C3;
+}
+
+#Vlag {
+    position: relative;
+    display: inline-block;
+}
+
+#d-or-l-indicator{
+    position: relative;
+    display: inline-block;
+}
