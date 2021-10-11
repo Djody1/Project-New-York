@@ -22,10 +22,10 @@ ul {
   text-decoration: none;
   }
 
-#EN_Vlag{
+#Vlag{
   float: right;
 
-  margin-right: -3.2%;
+  margin-right: -2.2%;
   margin-top: 0.45%;
 }
 
@@ -36,10 +36,10 @@ ul {
   font-family: 'IBM Plex Sans', sans-serif;
 
   margin-top: 3.2%;
-  margin-right: 3%;
+  margin-right: 2%;
 }
 
-#moon{
+#d-or-l-indicator{
   float:right;
 
   margin-right: 4%;
