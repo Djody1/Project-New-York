@@ -22,78 +22,17 @@ ul {
   text-decoration: none;
   }
 
-  .clearer{
-    clear: both;
-}
-
-.dagen a {
-    text-decoration: none;
-    color: black;
-}
-
-.dagen button {
-    background-color: #EAEAEA;
-    border: none;
-
-    font-size: 32px;
-    font-family: 'IBM Plex Sans', sans-serif;
-    font-weight: bold;
-
-    margin-left: 80px;
-    height: 60px;
-}
-
-#Vlag {
-    position: relative;
-    display: inline-block;
-    float: right;
-    margin-right: -2.2%;
-    margin-top: 0.45%;
-}
-
-#d-or-l-indicator {
-    position: relative;
-    display: inline-block;
-}
-
-.New_York_MP {
-    float: right;
-    margin-right: 4%;
-}
-
-body {
-    font-family: 'IBM Plex Sans', sans-serif;
-}
-
-.MP_text1 {
-    float: right;
-    margin-right: 9.5%;
-    margin-top: -0.3%;
-    font-size: 18px;
-}
-
-.dagen{
-  width: 30%;
-  float: left;
-}
-
-.text-content{
-  width: 50%;
-  float: left;
-}
-
-.text-content img{
+#Vlag{
   float: right;
-  width: 30%;
-  height: auto;
+
+  margin-right: -2.2%;
+  margin-top: 0.45%;
 }
 
 #taalindicatortext {
   float: right;
-
   font-size: 15px;
   font-family: 'IBM Plex Sans', sans-serif;
-
   margin-top: 3.2%;
   margin-right: 2%;
 }
@@ -103,13 +42,4 @@ body {
 
   margin-right: 4%;
   margin-top: 0.32%;
-}
-
-@media screen and (max-width: 600px){ /*If view port = 600 or < than show this styling.*/
-  /*Reset styling of everything.*/
-  html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; } /* HTML5 display-role reset for older browsers */ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
-  /*End of reset styling of everything*/
-  .MP_text1{
-    color: blue;
-  }
 }
