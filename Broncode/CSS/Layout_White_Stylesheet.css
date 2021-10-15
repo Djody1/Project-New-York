@@ -45,3 +45,11 @@ ul {
   margin-right: 4%;
   margin-top: 0.32%;
 }
+
+@media screen and (max-width: 600px){
+  .MP_text1{
+    color: blue;
+    margin-bottom: 10%;
+    padding: 2%;
+  }
+}
