@@ -9,7 +9,7 @@ ul {
   overflow: hidden;
   background-color: #FFFFFF;
 }
-#Titel {float: left;}
+.Titel {float: left;}
 
   li a {
   margin-left: 15px; 
@@ -22,14 +22,14 @@ ul {
   text-decoration: none;
   }
 
-#Vlag{
+.Vlag{
   float: right;
 
   margin-right: -2.2%;
   margin-top: 0.45%;
 }
 
-#taalindicatortext {
+.taalindicatortext {
   float: right;
   font-size: 15px;
   font-family: 'IBM Plex Sans', sans-serif;
@@ -37,7 +37,7 @@ ul {
   margin-right: 2%;
 }
 
-#d-or-l-indicator{
+.d-or-l-indicator{
   float:right;
 
   margin-right: 4%;
