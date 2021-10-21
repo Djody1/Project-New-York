@@ -45,3 +45,19 @@ ul {
   margin-right: 4%;
   margin-top: 0.32%;
 }
+
+.arrow_right_white {
+  float: right;
+  margin-right: 2.5%;
+  margin-top: 1%;
+}
+
+.arrow_left_white {
+  float: left;
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+
+.text_black_en {
+  color: #c3c3c3;
+}
