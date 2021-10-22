@@ -66,6 +66,23 @@ ul {
   font-size: 15px;
   font-family: 'IBM Plex Sans', sans-serif;
 }
+.container1 h3{
+  color: black; 
+  font-size: 15px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container1 p{
+  color: black; 
+  font-size: 15px;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+.container1 {
+  color: rgba(167, 25, 124, 0.795);
+
+}
 
 .container1{
   margin-top: 7.5%;

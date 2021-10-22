@@ -65,6 +65,12 @@ ul {
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
+.text_black a {
+text-decoration: none;
+color: rgba(42, 150, 221, 0.795);
+text-decoration-line: underline;
+}
+
 .container1{
   margin-top: 7.5%;
   width: 90%;
