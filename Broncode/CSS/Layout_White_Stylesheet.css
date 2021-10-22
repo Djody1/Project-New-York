@@ -9,7 +9,10 @@ ul {
   overflow: hidden;
   background-color: #FFFFFF;
 }
-.Titel {float: left;}
+
+.Titel {
+  float: left;
+  }
 
   li a {
   margin-left: 15px; 
@@ -56,4 +59,17 @@ ul {
   float: left;
   margin-left: 2.5%;
   margin-top: 1%;
+}
+
+.text_white {
+  color: black; 
+  font-size: 15px;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.container1{
+  margin-top: 7.5%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }

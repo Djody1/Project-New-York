@@ -58,6 +58,16 @@ ul {
   margin-top: 1%;
 }
 
-.text_black_en {
+.text_black {
   color: #c3c3c3;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.container1{
+  margin-top: 7.5%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }

@@ -11,55 +11,81 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@600;700&display=swap" rel="stylesheet">
     <title>Project New York ✈</title>
     <style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
 
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 25px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
     </style>
 </head>
 
 <body>
-    <section class='navigation'>
-        <section class='navigationbar'>
-            <nav>
-                <ul>
-                    <li class='Titel'><b><a href='../../hoofdpagina_black_en.html'>New York Project</a></b></li>
-                    <li class='taalindicatortext'>EN</li>
-                    <a href='../nl_black/wednesday_black_nl.html'>
-                        <li><img class='Vlag' src='../../../pictures/en_vlag.png' height='40'
-                                alt='Error: Look for EN_Vlag' />
-                        </li>
-                    </a>
-                    <a href='../en_white/wednesday_white_en.html'>
-                        <li><img class='d-or-l-indicator' src='../../../pictures/sun.png' width='47' height='47'
-                                alt='sun' />
-                        </li>
-                    </a>
-                </ul>
-            </nav>
-        </section>
-
-        <section class='pijltjes'>
-            <a href='./thursday_black_en.html'><img class='arrow_right_white'
-                    src='../../../pictures/Arrow right (White).png' height='60' alt='Error: Look for arrow right'>
-            </a>
-            <a href='./tuesday_black_en.html'><img class='arrow_left_white'
-                    src='../../../pictures/Arrow left (White).png' height='60' alt="Error: Look for arrow left">
-            </a>
-            <p class='text_black_en'>
-                morning:
-                try to stay in bed long. eat well made breakfast, take our time packing our bags, get ready for a
-                roadtrip, check out of the hotel
-
-                midday:
-                walk to chinatown, known for nice food and tourism, do a roundtrip there trying out food, freely walking
-                around together,
-                allready try to find a hotel to drop off our stuff, check in to redford hotel, €107 ($US124.25) a night
-
-                evening:
-                drop off our stuff at the hotel, go to a glow in the dark paintball hall to play a ew games and run
-                around.
-                walk back to the hotel, do whatever we can do, and sleep till thursday morgen.
-            </p>
-        </section>
+    <section class='navigationbar'>
+        <nav>
+            <ul>
+                <li class='Titel'><b><a href='../../hoofdpagina_black_en.html'>New York Project</a></b></li>
+                <li class='taalindicatortext'>EN</li>
+                <a href='../nl_black/wednesday_black_nl.html'>
+                    <li><img class='Vlag' src='../../../pictures/en_vlag.png' height='40'
+                            alt='Error: Look for EN_Vlag' />
+                    </li>
+                </a>
+                <a href='../en_white/wednesday_white_en.html'>
+                    <li><img class='d-or-l-indicator' src='../../../pictures/sun.png' width='47' height='47'
+                            alt='sun' />
+                    </li>
+                </a>
+            </ul>
+        </nav>
     </section>
+
+    <section class='pijltjes'>
+        <a href='./thursday_black_en.html'><img class='arrow_right_white'
+                src='../../../pictures/Arrow right (White).png' height='60' alt='Error: Look for arrow right'>
+        </a>
+        <a href='./tuesday_black_en.html'><img class='arrow_left_white' src='../../../pictures/Arrow left (White).png'
+                height='60' alt="Error: Look for arrow left">
+        </a>
+    </section>
+    <section class='container1'>
+        <p class='text_black'>
+            morning:
+            try to stay in bed long. eat well made breakfast, take our time packing our bags, get ready for a
+            roadtrip, check out of the hotel
+
+            midday:
+            walk to chinatown, known for nice food and tourism, do a roundtrip there trying out food, freely walking
+            around together,
+            allready try to find a hotel to drop off our stuff, check in to redford hotel, €107 ($US124.25) a night
+
+            evening:
+            drop off our stuff at the hotel, go to a glow in the dark paintball hall to play a ew games and run
+            around.
+            walk back to the hotel, do whatever we can do, and sleep till thursday morgen.
+            <p class="solid"></p>
+
+<div class="dropdown">
+  <span>enne bois.</span>
+  <div class="dropdown-content">
+  <p>✈ II</p>
+  </div>
+</div>
+        </p>
+    </section>
+
 </body>
 
 </html>
