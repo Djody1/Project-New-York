@@ -34,7 +34,7 @@ ul {
 
   font-size: 15px;
   font-family: 'IBM Plex Sans', sans-serif;
-  color: black;
+
   margin-top: 3.2%;
   margin-right: 2%;
 }
@@ -44,16 +44,4 @@ ul {
 
   margin-right: 4%;
   margin-top: 0.32%;
-}
-
-.arrow_right_black {
-  float: right;
-  margin-right: 2.5%;
-  margin-top: 1%;
-}
-
-.arrow_left_black {
-  float: left;
-  margin-left: 2.5%;
-  margin-top: 1%;
 }
