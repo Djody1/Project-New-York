@@ -58,14 +58,7 @@ ul {
   margin-top: 1%;
 }
 
-.text_black {
-  color: #c3c3c3;
-  text-decoration: none;
-  font-size: 15px;
-  font-family: 'IBM Plex Sans', sans-serif;
-}
-
-.text_black a {
+.container1 a {
 text-decoration: none;
 color: rgba(42, 150, 221, 0.795);
 text-decoration-line: underline;
@@ -76,4 +69,9 @@ text-decoration-line: underline;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
+
+  color: #c3c3c3;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
