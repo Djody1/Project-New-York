@@ -48,7 +48,7 @@ ul {
   margin-right: 4%;
   margin-top: 0.32%;
 }
-
+/* arrows used to navigate the days*/
 .arrow_right_black {
   float: right;
   margin-right: 2.5%;
@@ -60,12 +60,13 @@ ul {
   margin-left: 2.5%;
   margin-top: 1%;
 }
-
+/* color change for the links to google maps*/
 .container1 a{
   text-decoration: none;
   color: rgba(167, 25, 124, 0.795);
   text-decoration-line: underline;
 }
+/* text off the days*/
 
 .container1{
   margin-top: 7.5%;
@@ -78,3 +79,31 @@ ul {
   font-size: 15px;
   font-family: 'IBM Plex Sans', sans-serif;
 }
+
+/* begin hover*/
+
+button:hover {
+  opacity: 0.5;
+}
+
+.arrow_left_black:hover {
+  opacity: 0.5;
+}
+
+.arrow_right_black:hover {
+  opacity: 0.5;
+}
+
+.Titel:hover {
+  opacity: 0.5;
+}
+
+.d-or-l-indicator:hover {
+  opacity: 0.5;
+}
+
+.Vlag:hover {
+  opacity: 0.5;
+}
+
+/* end hover */
