@@ -1,6 +1,7 @@
 body {
   background-color: #2D2B2B;
   margin: 0px;
+  overflow: hidden;
 }
 
 ul {
