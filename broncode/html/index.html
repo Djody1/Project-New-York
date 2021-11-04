@@ -12,25 +12,6 @@
 
 
     <style>
-        .dagen a {
-            text-decoration: none;
-            color: black;
-        }
-
-        button {
-            background-color: #EAEAEA;
-            border: none;
-
-            font-size: 32px;
-            font-family: 'IBM Plex Sans', sans-serif;
-            font-weight: bold;
-
-            margin-left: 80px;
-
-            width: 12%;
-            height: 60px;
-        }
-
         .Vlag {
             position: relative;
             display: inline-block;
@@ -43,31 +24,26 @@
 
         .New_York_MP {
             float: right;
-            margin-right: 4%;
+            margin-right: 7%;
+            margin-top: -2%;
         }
 
         .time_square {
-            margin-top: 20%;
-            margin-left: 67%;
-            position: absolute;
+            float: right;
+            margin-top: 15%;
+            margin-right: -30%;
         }
 
         body {
             font-family: 'IBM Plex Sans', sans-serif;
-        }
-
-        .MP_text1 {
-            float: right;
-            margin-right: 9.5%;
-            margin-top: -0.3%;
-            font-size: 18px;
         }
     </style>
     <title>Project New York ✈</title>
 </head>
 
 <body>
-        <section class='navigationbar'>
+    <div class='pc'>
+        <div class='navigationbar'>
             <nav>
                 <ul>
                     <li class='Titel'><b><a href='./index.html'>New York Project</a></b></li>
@@ -85,51 +61,45 @@
                     </a>
                 </ul>
             </nav>
-        </section>
+        </div>
 
         <br /><br /><br /><br />
         <main>
 
 
             <div>
-                <img class='New_York_MP' src='../pictures/New_York.jpeg' alt='New_York' Width='30%' height='250px' />
-                <img class='time_square' src='../Pictures/dagen_pictures/times_square_light.jpg' alt='time_square'
-                    widht='30%' height='325px' />
+                <a target='_blank' href="../pictures/New_York.jpeg">
+                    <img class='New_York_MP' src='../pictures/New_York.jpeg' alt='New_York' width='30%' /></a>
+                <a target='_blank' href="../Pictures/dagen_pictures/times_square_light.jpg">
+                    <img class='time_square' src='../Pictures/dagen_pictures/times_square_light.jpg' alt='time_square'
+                        width='30%' /></a>
             </div>
-            <section>
-                <p class='MP_text1'>
-                    Wat je kan vinden op de site: <br /><br />
-                    Informatie over wat we elke dag(maandag t/m vrijdag) gaan doen.<br />
-                    Bij elke dag staat een beschrijving over<br /> de activiteit(en) of de bezichtiging(en).<br />
-                    Ook staan er een paar weetjes erover. <br /><br />
+            <div class='C-MP_text1 visible'>
+                Wat je kan vinden op de site: <br /><br />
+                Informatie over wat we elke dag(maandag t/m vrijdag) gaan doen.<br />
+                Bij elke dag staat een beschrijving over<br /> de activiteit(en) of de bezichtiging(en).<br />
+                Ook staan er een paar weetjes erover. <br /><br />
 
-                    Over onze website:<br /><br />
-                    Dit is een schoolproject wat in de vorm van een <br />website gemaakt is genaamd ‘’city
-                    curtains’’.<br />
-                    Het project gaat over een stad wat we samen hebben uitgekozen.<br /> We hebben een website
-                    moeten
-                    ontwikkelen,<br /><br />
-                    waarmee wij ons groepje kunnen gaan rondleiden op <br />interessante plaatsen in de gekozen stad
-                    (in
-                    dit
-                    geval New York).<br />
-                    Deze website is gemaakt als ondersteunend digitaal <br />hulpmiddel die gebruikt kan worden
-                    tijdens
-                    de
-                    rondleiding.
-                </p>
-            </section>
-            <section class='dagen'>
-                <div>
-                    <button><a href='./dagen/nl_white/monday_white_nl.html'>Maandag</a></button> <br /><br />
-                    <button><a href='./dagen/nl_white/tuesday_white_nl.html'>Dinsdag</a></button> <br /><br />
-                    <button><a href='./dagen/nl_white/wednesday_white_nl.html'>Woensdag</a></button> <br /><br />
-                    <button><a href='./dagen/nl_white/thursday_white_nl.html'>Donderdag</a></button> <br /><br />
-                    <button><a href='./dagen/nl_white/friday_white_nl.html'>Vrijdag</a></button> <br /><br />
-                </div>
-            </section>
+                Over onze website:<br /><br />
+                Dit is een schoolproject wat in de vorm van een <br />website gemaakt is genaamd ‘’city
+                curtains’’.<br />
+                Het project gaat over een stad wat we samen hebben uitgekozen.<br /> We hebben een website
+                moeten ontwikkelen,<br /><br />
+                waarmee wij ons groepje kunnen gaan rondleiden op <br />interessante plaatsen in de gekozen stad
+                (in dit geval New York).<br />
+                Deze website is gemaakt als ondersteunend digitaal <br />hulpmiddel die gebruikt kan worden
+                tijdens de rondleiding.
+            </div>
+            <div class='visible dagen'>
+                <button><a href='./dagen/nl_white/monday_white_nl.html'>Maandag</a></button> <br /><br />
+                <button><a href='./dagen/nl_white/tuesday_white_nl.html'>Dinsdag</a></button> <br /><br />
+                <button><a href='./dagen/nl_white/wednesday_white_nl.html'>Woensdag</a></button> <br /><br />
+                <button><a href='./dagen/nl_white/thursday_white_nl.html'>Donderdag</a></button> <br /><br />
+                <button><a href='./dagen/nl_white/friday_white_nl.html'>Vrijdag</a></button> <br /><br />
+            </div>
 
         </main>
+    </div>
 </body>
 
 </html>

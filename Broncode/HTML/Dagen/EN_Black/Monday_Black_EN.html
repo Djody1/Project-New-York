@@ -11,21 +11,29 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@600;700&display=swap" rel="stylesheet">
     <title>Project New York ✈</title>
     <style>
-        img:hover {
-            opacity: 0.5;
-        }
-
         div.gallery {
             margin: 5px;
             border: 0px solid #ccc;
             float: left;
             width: 180px;
         }
+
+        .newark {
+            margin-top: 2%;
+            margin-left: 0%;
+            position: absolute;
+        }
+
+        .vrijheidsbeeld {
+            margin-top: 2%;
+            margin-left: 31%;
+            position: absolute;
+        }
     </style>
 </head>
 
 <body>
-    <section class='navigationbar'>
+    <div class='navigationbar'>
         <nav>
             <ul>
                 <li class='Titel'><b><a href='../../hoofdpagina_black_en.html'>New York Project</a></b></li>
@@ -42,18 +50,18 @@
                 </a>
             </ul>
         </nav>
-    </section>
+    </div>
 
-    <section class='pijltjes'>
+    <div class='pijltjes'>
         <a href='./tuesday_black_en.html'><img class='arrow_right_white' src='../../../pictures/Arrow right (White).png'
                 height='60' alt='Error: Look for arrow right'>
         </a>
         <a href='../../hoofdpagina_black_en.html'><img class='arrow_left_white'
                 src='../../../pictures/Arrow left (White).png' height='60' alt="Error: Look for arrow left">
         </a>
-    </section>
+    </div>
 
-    <section class='container1'>
+    <div class='container1'>
         <div class='monday_black'>
             <p>
                 leaving The Netherlands from Schiphol airport to Newark Liberty International Airport, New York,
@@ -67,10 +75,14 @@
 
                 . its very big and beautiful.
             </p>
-            <img src="../../../pictures/dagen_pictures/newark_ia_dark.jpg" alt="Cinque Terre" width='45%' />
-            <img src='../../../Pictures/dagen_pictures/statue_of_liberty_dark.png' alt='statue_of_liberty' />
+            <a target='_blank' href="../../../pictures/dagen_pictures/newark_ia_dark.jpg">
+                <img class='newark' src="../../../pictures/dagen_pictures/newark_ia_dark.jpg" alt="Cinque Terre"
+                    width='30%' height='320px' /></a>
+            <a target='_blank' href="../../../Pictures/dagen_pictures/statue_of_liberty_dark.png">
+                <img class='vrijheidsbeeld' src='../../../Pictures/dagen_pictures/statue_of_liberty_dark.png'
+                    alt='statue_of_liberty' width='17%' height='320px' /></a>
         </div>
-    </section>
+    </div>
 </body>
 
 </html>
