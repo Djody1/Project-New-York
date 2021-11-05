@@ -15,25 +15,6 @@
             color: #C3C3C3;
         }
 
-        .dagen button {
-            background-color: #3E3B3B;
-            border: none;
-
-            font-size: 32px;
-            font-family: 'IBM Plex Sans', sans-serif;
-            font-weight: bold;
-
-            margin-left: 80px;
-
-            width: 190px;
-            height: 60px;
-        }
-
-        .dagen a {
-            text-decoration: none;
-            color: #C3C3C3;
-        }
-
         .Vlag {
             position: relative;
             display: inline-block;
@@ -56,14 +37,11 @@
             margin-right: -30%;
         }
 
-        .MP_text1 {
-            position: absolute;
-            float: left;
-            margin-left: 24%;
-            margin-top: -0.3%;
-            font-size: 18px;
+        body {
+            font-family: 'IBM Plex Sans', sans-serif;
         }
     </style>
+
 </head>
 
 <body>
@@ -87,6 +65,7 @@
                 </ul>
             </nav>
         </div>
+
         <br /><br /><br /><br />
         <main>
             <div>
@@ -97,35 +76,34 @@
                         <img class='time_square' src='../Pictures/dagen_pictures/times_square_dark.png'
                             alt='time_square' width='30%' /></a>
             </div>
-            <div>
-                <p class='MP_text1'>
-                    Wat je kan vinden op de site: <br /><br />
-                    Informatie over wat we elke dag(maandag t/m vrijdag) gaan doen.<br />
-                    Bij elke dag staat een beschrijving over<br /> de activiteit(en) of de bezichtiging(en).<br />
-                    Ook staan er een paar weetjes erover. <br /><br />
+            <div class='C-MP_text1 visible'>
 
-                    Over onze website:<br /><br />
-                    Dit is een schoolproject wat in de vorm van een <br />website gemaakt is genaamd ‘’city
-                    curtains’’.<br />
-                    Het project gaat over een stad wat we samen hebben uitgekozen.<br /> We hebben een website moeten
-                    ontwikkelen,<br /><br />
-                    waarmee wij ons groepje kunnen gaan rondleiden op <br />interessante plaatsen in de gekozen stad (in
-                    dit
-                    geval New York).<br />
-                    Deze website is gemaakt als ondersteunend digitaal <br />hulpmiddel die gebruikt kan worden tijdens
-                    de
-                    rondleiding.
-                </p>
+                Wat je kan vinden op de site: <br /><br />
+                Informatie over wat we elke dag(maandag t/m vrijdag)
+                gaan doen.<br />
+
+                Bij elke dag staat een beschrijving over<br /> de activiteit(en) of de bezichtiging(en).<br />
+                Ook staan er een paar weetjes erover. <br /><br />
+
+                Over onze website:<br /><br />
+                Dit is een schoolproject wat in de vorm van een <br />website gemaakt is genaamd ‘’city
+                curtains’’.<br />
+                Het project gaat over een stad wat we samen hebben uitgekozen.<br /> We hebben een website
+                moeten ontwikkelen,<br /><br />
+                waarmee wij ons groepje kunnen gaan rondleiden op <br />
+                interessante plaatsen in de <br />
+                gekozen stad (in dit geval New York). Deze website is gemaakt als <br />
+                ondersteunend digitaal hulpmiddel die gebruikt kan worden<br />
+                tijdens de rondleiding.
             </div>
-            <div class='dagen'>
-                <div>
-                    <button><a href='./dagen/nl_black/monday_black_nl.html'>Maandag</a></button> <br /><br />
-                    <button><a href='./dagen/nl_black/tuesday_black_nl.html'>Dinsdag</a></button> <br /><br />
-                    <button><a href='./dagen/nl_black/wednesday_black_nl.html'>Woensdag</a></button> <br /><br />
-                    <button><a href='./dagen/nl_black/thursday_black_nl.html'>Donderdag</a></button> <br /><br />
-                    <button><a href='./dagen/nl_black/friday_black_nl.html'>Vrijdag</a></button> <br /><br />
-                </div>
+            <div class='visible dagen'>
+                <button><a href='./dagen/nl_black/monday_black_nl.html'>Maandag</a></button> <br /><br />
+                <button><a href='./dagen/nl_black/tuesday_black_nl.html'>Dinsdag</a></button> <br /><br />
+                <button><a href='./dagen/nl_black/wednesday_black_nl.html'>Woensdag</a></button> <br /><br />
+                <button><a href='./dagen/nl_black/thursday_black_nl.html'>Donderdag</a></button> <br /><br />
+                <button><a href='./dagen/nl_black/friday_black_nl.html'>Vrijdag</a></button> <br /><br />
             </div>
+
         </main>
     </div>
 </body>
