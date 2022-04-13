@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 
 <html>
 
@@ -30,7 +30,7 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../index.php'>New York Project</a></b></li>
+                    <li id='Titel'><b><a href='../../../index.php'>New York Project</a></b></li>
                     <li id='taalindicatortext'>NL</li>
                     <a href='../EN_White/Thursday_White_EN.php'>
                         <li><img id='Vlag' src='../../../Pictures/NL_Flag.png' height='40'
