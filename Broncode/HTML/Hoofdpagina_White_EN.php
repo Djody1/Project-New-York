@@ -66,7 +66,7 @@
                     <li id='Titel'><b><a href='./Hoofdpagina_White_EN.php'>New York Project</a></b></li>
                     <li id='taalindicatortext'>EN</li>
 
-                    <a href='../../index.php'>
+                    <a href='../../../index.php'>
                         <li><img id='Vlag' src='../Pictures/EN_Vlag.png' height='40' alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>

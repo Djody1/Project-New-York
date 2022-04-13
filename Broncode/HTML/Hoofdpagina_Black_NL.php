@@ -71,7 +71,7 @@
                         </li>
                     </a>
 
-                    <a href='../../index.php'>
+                    <a href='../../../index.php'>
                         <li><img id='d-or-l-indicator' src='../Pictures/sun.png' width='47' height='47'
                                 alt='Error: Look for sun' />
                         </li>
