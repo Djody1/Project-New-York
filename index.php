@@ -3,8 +3,8 @@
 <html>
 
 <head>
-    <link rel='shortcut icon' type='image/x-icon' href='../Pictures/591' />
-    <link rel='stylesheet' href='../CSS/Layout_White_Stylesheet.css' />
+    <link rel='shortcut icon' type='image/x-icon' href='./Broncode/Pictures/591' />
+    <link rel='stylesheet' href='./Broncode/CSS/Layout_White_Stylesheet.css' />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -71,14 +71,14 @@
                         <li id='Titel'><b><a href='./index.php'>New York Project</a></b></li>
                         <li id='taalindicatortext'>NL</li>
 
-                        <a href='./Hoofdpagina_White_EN.php'>
-                            <li><img id='Vlag' src='../Pictures/NL_Flag.png' height='40'
+                        <a href='./Broncode/Hoofdpagina_White_EN.php'>
+                            <li><img id='Vlag' src='./Broncode/Pictures/NL_Flag.png' height='40'
                                     alt='Error: Look for EN_Vlag' />
                             </li>
                         </a>
 
-                        <a href='./Hoofdpagina_Black_NL.php'>
-                            <li><img id='d-or-l-indicator' src='../Pictures/moon.png' width='47' height='47'
+                        <a href='./Broncode/Hoofdpagina_Black_NL.php'>
+                            <li><img id='d-or-l-indicator' src='./Broncode/Pictures/moon.png' width='47' height='47'
                                     alt='Error: Look for moon' />
                             </li>
                         </a>
@@ -92,7 +92,7 @@
 
 
             <div>
-                <img class='New_York_MP' src='../Pictures/New_York.jpeg' alt='New_York' Width='30%' />
+                <img class='New_York_MP' src='./Broncode/Pictures/New_York.jpeg' alt='New_York' Width='30%' />
             </div>
             <section>
                 <p class='MP_text1'>
@@ -116,11 +116,11 @@
             </section>
             <section class='Dagen'>
                 <div>
-                    <button><a href='./Dagen/NL_White/Monday_White_NL.php'>Maandag</a></button> <br /><br />
-                    <button><a href='./Dagen/NL_White/Tuesday_White_NL.php'>Dinsdag</a></button> <br /><br />
-                    <button><a href='./Dagen/NL_White/Wednesday_White_NL.php'>Woensdag</a></button> <br /><br />
-                    <button><a href='./Dagen/NL_White/Thursday_White_NL.php'>Donderdag</a></button> <br /><br />
-                    <button><a href='./Dagen/NL_White/Friday_White_NL.php'>Vrijdag</a></button> <br /><br />
+                    <button><a href='./Broncode/HTML/Dagen/NL_White/Monday_White_NL.php'>Maandag</a></button> <br /><br />
+                    <button><a href='./Broncode/HTML/Dagen/NL_White/Tuesday_White_NL.php'>Dinsdag</a></button> <br /><br />
+                    <button><a href='./Broncode/HTML/Dagen/NL_White/Wednesday_White_NL.php'>Woensdag</a></button> <br /><br />
+                    <button><a href='./Broncode/HTML/Dagen/NL_White/Thursday_White_NL.php'>Donderdag</a></button> <br /><br />
+                    <button><a href='./Broncode/HTML/Dagen/NL_White/Friday_White_NL.php'>Vrijdag</a></button> <br /><br />
                 </div>
             </section>
 
