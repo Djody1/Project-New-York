@@ -71,13 +71,13 @@
                         <li id='Titel'><b><a href='./index.php'>New York Project</a></b></li>
                         <li id='taalindicatortext'>NL</li>
 
-                        <a href='./Broncode/Hoofdpagina_White_EN.php'>
+                        <a href='./Broncode/HTML/Hoofdpagina_White_EN.php'>
                             <li><img id='Vlag' src='./Broncode/Pictures/NL_Flag.png' height='40'
                                     alt='Error: Look for EN_Vlag' />
                             </li>
                         </a>
 
-                        <a href='./Broncode/Hoofdpagina_Black_NL.php'>
+                        <a href='./Broncode/HTML/Hoofdpagina_Black_NL.php'>
                             <li><img id='d-or-l-indicator' src='./Broncode/Pictures/moon.png' width='47' height='47'
                                     alt='Error: Look for moon' />
                             </li>
