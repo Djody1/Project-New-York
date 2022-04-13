@@ -24,7 +24,7 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../../index.php'>New York Project</a></b></li>
+                    <li id='Titel'><b><a href='../../../../index.php'>New York Project</a></b></li>
                     <li id='taalindicatortext'>NL</li>
                     <a href='../EN_White/Friday_White_EN.php'>
                         <li><img id='Vlag' src='../../../Pictures/NL_Flag.png' height='40'
