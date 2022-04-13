@@ -30,14 +30,14 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../Hoofdpagina_White_EN.html'>New York Project</a></b></li>
-                    <li id='taalindicatortext'>EN</li>
-                    <a href='../NL_White/Wednesday_White_NL.html'>
-                        <li><img id='Vlag' src='../../../Pictures/EN_Vlag.png' height='40'
+                    <li id='Titel'><b><a href='../../index.php'>New York Project</a></b></li>
+                    <li id='taalindicatortext'>NL</li>
+                    <a href='../EN_White/Thursday_White_EN.php'>
+                        <li><img id='Vlag' src='../../../Pictures/NL_Flag.png' height='40'
                                 alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>
-                    <a href='../EN_Black/Wednesday_Black_EN.html'>
+                    <a href='../NL_Black/Thursday_Black_NL.php'>
                         <li><img id='d-or-l-indicator' src='../../../Pictures/moon.png' width='47' height='47'
                                 alt='moon' />
                         </li>
@@ -47,23 +47,15 @@
         </section>
 
         <section class='pijltjes'>
-            <a href='./Thursday_White_EN.html'><img class='arrow_right_black'
+            <a href='./Friday_White_NL.php'><img class='arrow_right_black'
                     src='../../../Pictures/Arrow right (Black).png' height='60' alt='Error: Look for arrow right'>
             </a>
-            <a href='./Tuesday_White_EN.html'><img class='arrow_left_black'
-                    src='../../../Pictures/Arrow left (Black).png' height='60' alt="Error: Look for arrow left">
+            <a href='./Wednesday_White_NL.php'>
+                <img class='arrow_left_black' src='../../../Pictures/Arrow left (Black).png' height='60'
+                    alt='Error: Look for arrow left'>
             </a>
             <p>
-                morning:
-                try to stay in bed long. eat well made breakfast, take our time packing our bags, get ready for a roadtrip, check out of the hotel
-
-                midday:
-                walk to chinatown, known for nice food and tourism, do a roundtrip there trying out food, freely walking around together,
-                allready try to find a hotel to drop off our stuff, check in to redford hotel,  €107 ($US124.25) a night
-
-                evening:
-                drop off our stuff at the hotel, go to a glow in the dark paintball hall to play a ew games and run around.
-                walk back to the hotel, do whatever we can do, and sleep till thursday night.
+                
             </p>
         </section>
     </section>

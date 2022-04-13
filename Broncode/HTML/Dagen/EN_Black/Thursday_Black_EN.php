@@ -16,6 +16,12 @@
             margin-right: 2.5%;
             margin-top: 1%;
         }
+
+        .arrow_left_white {
+            float: left;
+            margin-left: 2.5%;
+            margin-top: 1%;
+        }
     </style>
 </head>
 
@@ -24,14 +30,14 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../Hoofdpagina_Black_EN.html'>New York Project</a></b></li>
+                    <li id='Titel'><b><a href='../../Hoofdpagina_Black_EN.php'>New York Project</a></b></li>
                     <li id='taalindicatortext'>EN</li>
-                    <a href='../NL_Black/Monday_Black_NL.html'>
+                    <a href='../NL_Black/Thursday_Black_NL.php'>
                         <li><img id='Vlag' src='../../../Pictures/EN_Vlag_White.png' height='40'
                                 alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>
-                    <a href='../EN_White/Monday_White_EN.html'>
+                    <a href='../EN_White/Thursday_White_EN.php'>
                         <li><img id='d-or-l-indicator' src='../../../Pictures/sun.png' width='47' height='47'
                                 alt='sun' />
                         </li>
@@ -41,11 +47,14 @@
         </section>
 
         <section class='pijltjes'>
-            <a href='./Tuesday_Black_EN.html'><img class='arrow_right_white'
+            <a href='./Friday_Black_EN.php'><img class='arrow_right_white'
                     src='../../../Pictures/Arrow right (White).png' height='60' alt='Error: Look for arrow right'>
             </a>
+            <a href='./Wednesday_Black_EN.php'><img class='arrow_left_white'
+                    src='../../../Pictures/Arrow left (White).png' height='60' alt="Error: Look for arrow left">
+            </a>
             <p>
-                leaving The Netherlands from Schiphol airport to Newark Liberty International Airport, New York, USA
+                
             </p>
         </section>
     </section>

@@ -62,16 +62,16 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='./Hoofdpagina_Black_EN.html'>New York Project</a></b></li>
+                    <li id='Titel'><b><a href='./Hoofdpagina_Black_EN.php'>New York Project</a></b></li>
                     <li id='taalindicatortext'>EN</li>
 
-                    <a href='./Hoofdpagina_Black_NL.html'>
+                    <a href='./Hoofdpagina_Black_NL.php'>
                         <li><img id='Vlag' src='../Pictures/EN_Vlag_White.png' height='40'
                                 alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>
 
-                    <a href='./Hoofdpagina_White_EN.html'>
+                    <a href='./Hoofdpagina_White_EN.php'>
                         <li><img id='d-or-l-indicator' src='../Pictures/sun.png' width='47' height='47'
                                 alt='Error: Look for sun' />
                         </li>
@@ -102,11 +102,11 @@
         </p>
         <section class='Dagen'>
             <div>
-                <button><a href='./Dagen/EN_Black/Monday_Black_EN.html'>Monday</a></button> <br /><br />
-                <button><a href='./Dagen/EN_Black/Tuesday_Black_EN.html'>Tuesday</a></button> <br /><br />
-                <button><a href='./Dagen/EN_Black/Wednesday_Black_EN.html'>Wednesday</a></button> <br /><br />
-                <button><a href='./Dagen/EN_Black/Thursday_Black_EN.html'>Thursday</a></button> <br /><br />
-                <button><a href='./Dagen/EN_Black/Friday_Black_EN.html'>Friday</a></button> <br /><br />
+                <button><a href='./Dagen/EN_Black/Monday_Black_EN.php'>Monday</a></button> <br /><br />
+                <button><a href='./Dagen/EN_Black/Tuesday_Black_EN.php'>Tuesday</a></button> <br /><br />
+                <button><a href='./Dagen/EN_Black/Wednesday_Black_EN.php'>Wednesday</a></button> <br /><br />
+                <button><a href='./Dagen/EN_Black/Thursday_Black_EN.php'>Thursday</a></button> <br /><br />
+                <button><a href='./Dagen/EN_Black/Friday_Black_EN.php'>Friday</a></button> <br /><br />
             </div>
         </section>
     </main>

@@ -24,14 +24,14 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../Hoofdpagina_White_NL.html'>New York Project</a></b></li>
+                    <li id='Titel'><b><a href='../../index.php'>New York Project</a></b></li>
                     <li id='taalindicatortext'>NL</li>
-                    <a href='../EN_White/Friday_White_EN.html'>
+                    <a href='../EN_White/Friday_White_EN.php'>
                         <li><img id='Vlag' src='../../../Pictures/NL_Flag.png' height='40'
                                 alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>
-                    <a href='../NL_Black/Friday_Black_NL.html'>
+                    <a href='../NL_Black/Friday_Black_NL.php'>
                         <li><img id='d-or-l-indicator' src='../../../Pictures/moon.png' width='47' height='47'
                                 alt='moon' />
                         </li>
@@ -41,7 +41,7 @@
         </section>
 
         <section class='pijltjes'>
-            <a href='./Thursday_White_NL.html'>
+            <a href='./Thursday_White_NL.php'>
                 <img class='arrow_left_black' src='../../../Pictures/Arrow left (Black).png' height='60'
                     alt='Error: Look for arrow left'>
             </a>

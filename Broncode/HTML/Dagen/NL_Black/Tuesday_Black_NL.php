@@ -30,14 +30,14 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../Hoofdpagina_Black_EN.html'>New York Project</a></b></li>
-                    <li id='taalindicatortext'>EN</li>
-                    <a href='../NL_Black/Thursday_Black_NL.html'>
-                        <li><img id='Vlag' src='../../../Pictures/EN_Vlag_White.png' height='40'
+                    <li id='Titel'><b><a href='../../Hoofdpagina_Black_NL.php'>New York Project</a></b></li>
+                    <li id='taalindicatortext'>NL</li>
+                    <a href='../EN_Black/Tuesday_Black_EN.php'>
+                        <li><img id='Vlag' src='../../../Pictures/NL_Flag.png' height='40'
                                 alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>
-                    <a href='../EN_White/Thursday_White_EN.html'>
+                    <a href='../NL_White/Tuesday_White_NL.php'>
                         <li><img id='d-or-l-indicator' src='../../../Pictures/sun.png' width='47' height='47'
                                 alt='sun' />
                         </li>
@@ -47,14 +47,27 @@
         </section>
 
         <section class='pijltjes'>
-            <a href='./Friday_Black_EN.html'><img class='arrow_right_white'
+            <a href='./Wednesday_Black_NL.php'><img class='arrow_right_white'
                     src='../../../Pictures/Arrow right (White).png' height='60' alt='Error: Look for arrow right'>
             </a>
-            <a href='./Wednesday_Black_EN.html'><img class='arrow_left_white'
-                    src='../../../Pictures/Arrow left (White).png' height='60' alt="Error: Look for arrow left">
+            <a href='./Monday_Black_NL.php'>
+                <img class='arrow_left_white' src='../../../Pictures/Arrow left (White).png' height='60'
+                    alt='Error: Look for arrow left'>
             </a>
             <p>
-                
+                morgen:
+                aankomst Newark Liberty International Airport. onderweg naar ons hotel: Hotel Brooklyn Bridge, €125 ($US145.21) per nacht
+
+
+                Middag:
+                in ons hotel rusten we tot 3:10pm (15:10), lopen onderweg naar de brooklyn bridge om te gaan uiteten bij 1803 NYC.
+                we gaan lopen naar 9/11 memorial om te zien hoe het eruit ziet en de slachtoffers te respecteren
+
+
+                avond:
+                wij zijn onderweg naar holiday inn manhatten-financial District €103 ($119.60) per nacht. chillen bij het hotel. 
+                de rest van onze dag zal gewoon een chille dag zij, we kunnen zwemmen, we kunnen poolen aan de pool tafel, wat voor andere dingen er dan ook te doen zijn in het hotel kunnen we doen. 
+                we worden weer wakker op woensdag morgen, die dag vervolgt op het tab woensdag.
             </p>
         </section>
     </section>

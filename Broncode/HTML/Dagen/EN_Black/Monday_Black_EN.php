@@ -24,14 +24,14 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../Hoofdpagina_Black_NL.html'>New York Project</a></b></li>
-                    <li id='taalindicatortext'>NL</li>
-                    <a href='../EN_Black/Monday_Black_EN.html'>
-                        <li><img id='Vlag' src='../../../Pictures/NL_Flag.png' height='40'
+                    <li id='Titel'><b><a href='../../Hoofdpagina_Black_EN.php'>New York Project</a></b></li>
+                    <li id='taalindicatortext'>EN</li>
+                    <a href='../NL_Black/Monday_Black_NL.php'>
+                        <li><img id='Vlag' src='../../../Pictures/EN_Vlag_White.png' height='40'
                                 alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>
-                    <a href='../NL_White/Monday_White_NL.html'>
+                    <a href='../EN_White/Monday_White_EN.php'>
                         <li><img id='d-or-l-indicator' src='../../../Pictures/sun.png' width='47' height='47'
                                 alt='sun' />
                         </li>
@@ -41,11 +41,11 @@
         </section>
 
         <section class='pijltjes'>
-            <a href='./Tuesday_Black_NL.html'><img class='arrow_right_white'
+            <a href='./Tuesday_Black_EN.php'><img class='arrow_right_white'
                     src='../../../Pictures/Arrow right (White).png' height='60' alt='Error: Look for arrow right'>
             </a>
             <p>
-                vertrek vanaf Schiphol Nederland naar Newark Liberty International Airport, New York, America
+                leaving The Netherlands from Schiphol airport to Newark Liberty International Airport, New York, USA
             </p>
         </section>
     </section>

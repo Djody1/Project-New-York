@@ -30,14 +30,14 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../Hoofdpagina_Black_NL.html'>New York Project</a></b></li>
-                    <li id='taalindicatortext'>NL</li>
-                    <a href='../EN_Black/Wednesday_Black_EN.html'>
-                        <li><img id='Vlag' src='../../../Pictures/NL_Flag.png' height='40'
+                    <li id='Titel'><b><a href='../../Hoofdpagina_Black_EN.php'>New York Project</a></b></li>
+                    <li id='taalindicatortext'>EN</li>
+                    <a href='../NL_Black/Tuesday_Black_NL.php'>
+                        <li><img id='Vlag' src='../../../Pictures/EN_Vlag_White.png' height='40'
                                 alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>
-                    <a href='../NL_White/Wednesday_White_NL.html'>
+                    <a href='../EN_White/Tuesday_White_EN.php'>
                         <li><img id='d-or-l-indicator' src='../../../Pictures/sun.png' width='47' height='47'
                                 alt='sun' />
                         </li>
@@ -47,24 +47,26 @@
         </section>
 
         <section class='pijltjes'>
-            <a href='./Thursday_Black_NL.html'><img class='arrow_right_white'
+            <a href='./Wednesday_Black_EN.php'><img class='arrow_right_white'
                     src='../../../Pictures/Arrow right (White).png' height='60' alt='Error: Look for arrow right'>
             </a>
-            <a href='./Tuesday_Black_NL.html'>
-                <img class='arrow_left_white' src='../../../Pictures/Arrow left (White).png' height='60'
-                    alt='Error: Look for arrow left'>
+            <a href='./Monday_Black_EN.php'><img class='arrow_left_white'
+                    src='../../../Pictures/Arrow left (White).png' height='60' alt="Error: Look for arrow left">
             </a>
             <p>
-                morning:
-                try to stay in bed long. eat well made breakfast, take our time packing our bags, get ready for a roadtrip, check out of the hotel
+                Morning:
+                arrival Newark Liberty International Airport. on our way to Hotel Brooklyn Bridge, €125 ($US145.21) a night 
 
-                midday:
-                walk to chinatown, known for nice food and tourism, do a roundtrip there trying out food, freely walking around together,
-                allready try to find a hotel to drop off our stuff, check in to redford hotel,  €107 ($US124.25) a night
 
-                evening:
-                drop off our stuff at the hotel, go to a glow in the dark paintball hall to play a ew games and run around.
-                walk back to the hotel, do whatever we can do, and sleep till thursday night.
+                Midday:
+                in the hotel we rest until 3:10pm, walk over the brooklyn bridge to go out for dinner at 1803 NYC.
+                walk to 9/11 memorial to see the place and respect the victims
+
+
+                Evening:
+                we are on our way to holiday inn manhatten-financial District €103 ($119.60) a night. chill at the hotel. 
+                the rest of the day will just be a chill day, we can swim, play pool, whatever else there is to do in the hotel. 
+                wake up again on wednesday
             </p>
         </section>
     </section>

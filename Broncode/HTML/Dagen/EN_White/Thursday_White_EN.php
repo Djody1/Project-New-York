@@ -11,6 +11,12 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@600;700&display=swap" rel="stylesheet">
     <title>Project New York ✈</title>
     <style>
+        .arrow_right_black {
+            float: right;
+            margin-right: 2.5%;
+            margin-top: 1%;
+        }
+
         .arrow_left_black {
             float: left;
             margin-left: 2.5%;
@@ -24,14 +30,14 @@
         <section class='navigationbar'>
             <nav>
                 <ul>
-                    <li id='Titel'><b><a href='../../Hoofdpagina_White_EN.html'>New York Project</a></b></li>
+                    <li id='Titel'><b><a href='../../Hoofdpagina_White_EN.php'>New York Project</a></b></li>
                     <li id='taalindicatortext'>EN</li>
-                    <a href='../NL_White/Friday_White_NL.html'>
+                    <a href='../NL_White/Thursday_White_NL.php'>
                         <li><img id='Vlag' src='../../../Pictures/EN_Vlag.png' height='40'
                                 alt='Error: Look for EN_Vlag' />
                         </li>
                     </a>
-                    <a href='../EN_Black/Friday_Black_EN.html'>
+                    <a href='../EN_Black/Thursday_Black_EN.php'>
                         <li><img id='d-or-l-indicator' src='../../../Pictures/moon.png' width='47' height='47'
                                 alt='moon' />
                         </li>
@@ -41,9 +47,15 @@
         </section>
 
         <section class='pijltjes'>
-            <a href='./Thursday_White_EN.html'><img class='arrow_left_black'
+            <a href='./Friday_White_EN.php'><img class='arrow_right_black'
+                    src='../../../Pictures/Arrow right (Black).png' height='60' alt='Error: Look for arrow right'>
+            </a>
+            <a href='./Wednesday_White_EN.php'><img class='arrow_left_black'
                     src='../../../Pictures/Arrow left (Black).png' height='60' alt="Error: Look for arrow left">
             </a>
+            <p>
+                
+            </p>
         </section>
     </section>
 </body>
